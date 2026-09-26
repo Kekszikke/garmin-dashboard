@@ -1,0 +1,185 @@
+{
+  "generated_at": "2026-09-26 11:00",
+  "today": {
+    "sleep_score": 76,
+    "sleep_hours": 9.8,
+    "sleep_deep_min": 83,
+    "sleep_light_min": 393,
+    "sleep_rem_min": 115,
+    "sleep_awake_min": 75,
+    "hrv": 99,
+    "hrv_status": "BALANCED",
+    "spo2_avg": 93.0,
+    "spo2_low": 79,
+    "stress_avg": 11,
+    "stress_current": null,
+    "body_battery_current": 98,
+    "body_battery_charged": 62,
+    "body_battery_drained": 3,
+    "readiness_score": 86,
+    "readiness_level": "HIGH",
+    "vo2max": null
+  },
+  "sleep_trend": [
+    {
+      "date": "2026-09-20",
+      "score": 78
+    },
+    {
+      "date": "2026-09-21",
+      "score": 80
+    },
+    {
+      "date": "2026-09-22",
+      "score": 78
+    },
+    {
+      "date": "2026-09-23",
+      "score": 68
+    },
+    {
+      "date": "2026-09-24",
+      "score": 79
+    },
+    {
+      "date": "2026-09-25",
+      "score": 73
+    },
+    {
+      "date": "2026-09-26",
+      "score": 76
+    }
+  ],
+  "hrv_trend": [
+    {
+      "date": "2026-09-20",
+      "value": 101
+    },
+    {
+      "date": "2026-09-21",
+      "value": 103
+    },
+    {
+      "date": "2026-09-22",
+      "value": 104
+    },
+    {
+      "date": "2026-09-23",
+      "value": 104
+    },
+    {
+      "date": "2026-09-24",
+      "value": 105
+    },
+    {
+      "date": "2026-09-25",
+      "value": 102
+    },
+    {
+      "date": "2026-09-26",
+      "value": 99
+    }
+  ],
+  "activities": [
+    {
+      "name": "Relax and Focus (Short)",
+      "type": "breathwork",
+      "date": "2026-09-22 09:14",
+      "duration_min": 4.0,
+      "distance_km": 0.0,
+      "avg_hr": 66.0,
+      "calories": null,
+      "training_effect": 0.0
+    },
+    {
+      "name": "Pool Swim",
+      "type": "lap_swimming",
+      "date": "2026-09-18 15:43",
+      "duration_min": 54.1,
+      "distance_km": 1.23,
+      "avg_hr": 123.0,
+      "calories": 412.0,
+      "training_effect": 2.0999999046325684
+    },
+    {
+      "name": "Relax and Focus (Short)",
+      "type": "breathwork",
+      "date": "2026-09-18 11:28",
+      "duration_min": 5.6,
+      "distance_km": 0.0,
+      "avg_hr": 68.0,
+      "calories": null,
+      "training_effect": 0.0
+    },
+    {
+      "name": "Satu Mare - Threshold",
+      "type": "running",
+      "date": "2026-09-17 20:15",
+      "duration_min": 36.0,
+      "distance_km": 6.29,
+      "avg_hr": 164.0,
+      "calories": 490.0,
+      "training_effect": 3.5
+    },
+    {
+      "name": "Satu Mare Running",
+      "type": "running",
+      "date": "2026-09-13 15:51",
+      "duration_min": 43.6,
+      "distance_km": 6.12,
+      "avg_hr": 143.0,
+      "calories": 479.0,
+      "training_effect": 2.5999999046325684
+    },
+    {
+      "name": "Pool Swim",
+      "type": "lap_swimming",
+      "date": "2026-09-11 17:03",
+      "duration_min": 50.4,
+      "distance_km": 1.0,
+      "avg_hr": 121.0,
+      "calories": 367.0,
+      "training_effect": 1.7999999523162842
+    },
+    {
+      "name": "Satu Mare - Base",
+      "type": "running",
+      "date": "2026-09-10 19:31",
+      "duration_min": 30.1,
+      "distance_km": 5.1,
+      "avg_hr": 162.0,
+      "calories": 410.0,
+      "training_effect": 3.299999952316284
+    },
+    {
+      "name": "Satu Mare Basketball",
+      "type": "basketball",
+      "date": "2026-09-09 19:45",
+      "duration_min": 25.0,
+      "distance_km": 0.57,
+      "avg_hr": 108.0,
+      "calories": 138.0,
+      "training_effect": 0.5
+    },
+    {
+      "name": "Satu Mare Basketball",
+      "type": "basketball",
+      "date": "2026-09-08 18:49",
+      "duration_min": 69.3,
+      "distance_km": 4.92,
+      "avg_hr": 98.0,
+      "calories": 301.0,
+      "training_effect": 0.5
+    },
+    {
+      "name": "Pool Swim",
+      "type": "lap_swimming",
+      "date": "2026-09-04 16:52",
+      "duration_min": 26.6,
+      "distance_km": 0.65,
+      "avg_hr": 127.0,
+      "calories": 224.0,
+      "training_effect": 2.0
+    }
+  ]
+}
